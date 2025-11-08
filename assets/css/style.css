@@ -111,16 +111,15 @@ body {
 
 .hero .subtitle {
     font-size: 1.5rem;
-    font-weight: 600;
+    font-weight: 700;
     margin-bottom: var(--spacing-sm);
-    opacity: 0.95;
 }
 
 .hero .description {
     font-size: 1.125rem;
     max-width: 700px;
     margin: 0 auto;
-    opacity: 0.9;
+    font-weight: 500;
 }
 
 /* Main Content */
